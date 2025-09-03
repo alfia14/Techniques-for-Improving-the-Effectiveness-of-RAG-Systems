@@ -19,7 +19,7 @@ Technologies/Tools Used:
 
 ![Pipeline](Pipeline.png)
 
-Benchmark metrics used: Precision/Recall
+Benchmark metrics used: Precision/Recall  
 Evaluation techniques used: LLM-as-a-judge and human-as-a-judge
 
 Final UI:
