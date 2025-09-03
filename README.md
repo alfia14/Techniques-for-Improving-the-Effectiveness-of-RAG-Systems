@@ -9,9 +9,19 @@ Project : Techniques for Improving the Effectiveness of RAG Systems (NVIDIA Deep
 
 Technologies/Tools Used:
 
-NVIDIA NIMs
-LangChain
-Redis
-NextJS
-FastAPI
-Docker Compose
+1. NVIDIA NIMs
+2. LangChain
+3. Redis
+4. NextJS
+5. FastAPI
+6. Docker Compose
+7. TensorRT
+
+![Pipeline](Pipeline.png)
+
+Benchmark metrics used: Precision/Recall
+Evaluation techniques used: LLM-as-a-judge and human-as-a-judge
+
+Final UI:
+
+![FinalUI](FinalUI.png)
